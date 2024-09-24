@@ -43,7 +43,7 @@ Welcome to the **Learning Navigator**! This is a RESTful API service designed to
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/learning-navigator.git
+   git clone https://github.com/Jyotipr45/learning-navigator.git
    cd learning-navigator  
    ``` 
 
