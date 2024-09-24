@@ -113,7 +113,7 @@ Let’s collaborate to make this Learning Management System even better!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have questions or feedback? Don’t hesitate to reach out! 📬
 
-- Email: paridajyotiprakash35@gmail.com
+- Email: jyotipr45@gmail.com
 - GitHub: https://github.com/Jyotipr45
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let's connect and enhance this project together! 🌍
